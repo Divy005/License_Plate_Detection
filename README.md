@@ -128,6 +128,9 @@ streamlit run app.py
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
+   
+## 📸 Image
+<img width="2416" height="1280" alt="image" src="https://github.com/user-attachments/assets/bfdd81d0-0c4a-4311-8192-cdc6a325721a" />
 
 ## 📝 License
 
